@@ -1,0 +1,9 @@
+requests>=2.31
+numpy>=1.24
+opencv-python>=4.8
+sounddevice>=0.4.6
+faster-whisper>=1.0
+jupyterlab>=4.0
+ipywidgets>=8.0
+huggingface_hub>=0.23
+mujoco>=3.2

@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+results/
+last_seen.jpg
+check_camera.jpg
+notes.txt
+tests/out_*.png
+*.gguf
+.ipynb_checkpoints/
+models/
