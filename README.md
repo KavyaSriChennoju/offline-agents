@@ -44,7 +44,7 @@ Check both worked, in a new terminal: `uv --version` and `llama-server --version
 
 ### 2. Get the code and install the Python bits
 
-Download the zip from **tinyurl.com/offline-agent**, unzip it, and open a terminal in the
+Download the zip from **tinyurl.com/offline-agents**, unzip it, and open a terminal in the
 `offline-agents-main` folder. Or clone it:
 
 ```bash
